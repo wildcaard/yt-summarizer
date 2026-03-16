@@ -1,4 +1,4 @@
-# YouTube Video Summarizer Walkthrough
+# YouTube Video Summarizer
 
 Welcome to the YouTube Video Summarizer! This small application simplifies the task of gleaning insights from educational, informational, or otherwise long YouTube recordings. Here's a brief walkthrough of how it was built, how it works, and how to verify it.
 
